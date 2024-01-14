@@ -1,0 +1,7 @@
+# print('Sohail')
+# print(2+3)
+# print('we are learning python')
+# print('this is the 3rd day')
+# print('it is really fun')
+# print('I will complete this InshAllah')
+print(2+2+3)
